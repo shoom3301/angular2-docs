@@ -1,0 +1,6 @@
+## [NG2 + Webpack - lazy loading](https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack-d25fe71c29c1#.4g5jzdnli)
+## [NG2 + Webpack - code splitting](http://blog.waffle.io/code-splitting-angular-2-webpack-2/)
+## [NG2 - AOT](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
+## [NG2 - production build](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+## [NG2 + Webpack - starter](https://github.com/AngularClass/angular2-webpack-starter)
+## [NG2 - HMR](https://github.com/AngularClass/angular2-hmr)
